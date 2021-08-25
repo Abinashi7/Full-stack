@@ -2,11 +2,16 @@
 Repository for full stack practice
 - Adding basic code of HTML, CSS, JS and Bootstrap
 
+# Tic Tac Toe (HTML + CSS + Bootstrap + JS)
+![](demo/tictactoe.gif)
+
+This project focuses on building front-end of a simple tic tac toe game using Bootstrap, css and html and has logic to mark down and erase grid cells using javascript and DOM
+
 # CoffeeLovers Landing Page (Bootstrap + HTML)
  ![](demo/bootstrap.gif)
 
  This repo focuses on the components of Bootstrap like Navbar, Jumbotron, Form, Container, and the Grid System
- 
+
 # Landing Page
 
 ![](demo/capstoneGif.gif)
