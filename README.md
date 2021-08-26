@@ -3,7 +3,7 @@ Repository for full stack practice
 - Adding basic code of HTML, CSS, JS and Bootstrap
 # Connect Four (HTML + CSS + Bootstrap + JQuery & JS)
 
-![](demo/connectFour.gif)
+![](demo/connectfour.gif)
 
 This project focuses on building front-end of Connect Four game using Bootstrap, CSS and HTML and the game logic using JQuery instead of using vanilla javascript
 
